@@ -20,7 +20,7 @@
 
 **🎯 The impediment to action advances action. What stands in the way becomes the way. 🛣️**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%2F+ML+Engineer;Deep+Learning;RAG+Systems;LLMs+&+Agents+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=428af5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%20%2F%20ML%20Engineer;Deep%20Learning;LLMs%20%26%20Agents%20Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
