@@ -181,7 +181,6 @@ class AIEngineer:
 
 **⭐ Star my repositories if you find them interesting!**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=geekyabs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **📧 Reach out:** abeshchakraborty10@gmail.com
 
