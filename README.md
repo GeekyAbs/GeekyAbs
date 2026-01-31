@@ -8,9 +8,11 @@
 
 <h1 align="center">Hey 👋 I'm Abesh!</h1>
 <h4 align="center">📍Kolkata, India</h4>
+<div align="center">
+  
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Deep+Learning;LLMs+%26+Agentic+AI;Reinforcement+Learning)](https://git.io/typing-svg)
 
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Deep+Learning;LLMs+%26+Agentic+AI;Reinforcement+Learning)](https://git.io/typing-svg)
+</div>
 
 <h3 align="center">🎯 "The impediment to action advances action. What stands in the way becomes the way."</h3>
 
@@ -26,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
@@ -93,8 +95,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="(mailto:abeshchakraborty10@gmail.com)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<a href="mailto:abeshchakraborty10@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
   </a>
 </div>
 
