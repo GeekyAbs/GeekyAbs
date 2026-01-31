@@ -1,201 +1,114 @@
-<div align="center">
+<br clear="both">
 
-```
-██   ██ ███████ ██    ██        ██████  ███████ ██    ██ ██     ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██ 
-██   ██ ██       ██  ██         ██   ██ ██      ██    ██ ██     ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██ 
-███████ █████     ████          ██   ██ █████   ██    ██ ██     ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██ 
-██   ██ ██         ██           ██   ██ ██       ██  ██         ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██         
-██   ██ ███████    ██    ▄█     ██████  ███████   ████   ██      ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██ 
-                                                                                                                                 
-                                                                                                                                 
-```
-
-# 🧠 AI/ML Engineer & Researcher
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Deep+Learning+Enthusiast;LLMs+%26+Agentic+AI+Builder;Reinforcement+Learning+Explorer)](https://git.io/typing-svg)
-
-**🎯 "The impediment to action advances action. What stands in the way becomes the way."**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abesh-chakraborty/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CognitiveAbs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeshchakraborty10@gmail.com)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
----
+###
 
-## 🚀 About Me
+<h1 align="center">Hey 👋 I'm Abesh!</h1>
+<h4 align="center">📍Kolkata, India</h4>
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Abesh Chakraborty"
-        self.education = "B.Tech CSE (AI) | CGPA: 8.9 | 2028"
-        self.location = "Kolkata, India 🇮🇳"
-        self.focus = ["LLMs", "Agentic AI", "Computer Vision", "RAG Systems"]
-        self.currently = "Building IntelliTraffiCam - Edge AI Traffic System"
-        
-    def current_work(self):
-        return {
-            "🚦": "Multi-task traffic management with NVIDIA Jetson",
-            "🔍": "ANPR, Speed Detection, Accident Analysis",
-            "⚡": "Real-time inference on edge devices"
-        }
-```
+###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Deep+Learning;LLMs+%26+Agentic+AI;Reinforcement+Learning)](https://git.io/typing-svg)
 
----
+<h3 align="center">🎯 "The impediment to action advances action. What stands in the way becomes the way."</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
-## 🛠️ Tech Stack
+<h2 align="left">Languages</h2>
+
+###
 
 <div align="center">
-
-### 🤖 AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🧠 LLMs & NLP
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
 
----
+###
 
-## 🏗️ Featured Projects
+<h2 align="left">Deep Learning & Computer Vision</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+###
 
-### 🚨 Hybrid Edge-LLM Fall Detection
-**Stack:** Raspberry Pi, YOLO, VLM, Flask
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo" /> <img width="12" />
+</div>
 
-- ✅ **86% mAP50** with YOLOv8n (INT8 quantized)
-- 🤖 VLM-powered false positive elimination
-- 📱 Context-rich Telegram alert system
-- 🎯 Real-time edge inference
+###
 
-</td>
-<td width="50%" valign="top">
+<h2 align="left">GenAI</h2>
 
-### ♟️ Knowledge Distillation for LLMs
-**Stack:** GPT-2, Leela Chess Zero, PPO
+###
 
-- 🧠 Student-Teacher RL framework
-- ♟️ Distilled chess engine knowledge into GPT-2
-- 🔄 1000 games of iterative self-play
-- 📈 Strategic learning from null-knowledge state
+<div align="left">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" /> 
+  <img width="12" /> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" /> <img width="12" />
+  <img width="12" /> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface logo" /> <img width="12" /> 
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🔍 RAG Information Retrieval
-**Stack:** LangChain, AstraDB, Gemini
+###
 
-- 🎯 Context-aware question answering
-- 🗃️ Vector embeddings with Cassandra
-- ⚡ Production-ready RAG pipeline
-- 📚 Advanced NLP implementation
+<h2 align="left">Others</h2>
 
-</td>
-<td width="50%" valign="top">
+###
 
-### 🚦 IntelliTraffiCam (Ongoing)
-**Stack:** NVIDIA Jetson, YOLO, PyTorch
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+</div>
 
-- 🎥 Real-time multi-task traffic system
-- 🚗 ANPR + Speed violation detection
-- 💥 Accident detection & intensity analysis
-- ⚡ Optimized for edge deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Core Expertise
+###
 
 <div align="center">
-
-| Domain | Skills |
-|--------|--------|
-| 🤖 **LLMs & NLP** | Fine-tuning, PEFT, LoRA, QLoRA, Transformers, RAG, Agentic AI |
-| 🧠 **Deep Learning** | CNNs, ANNs, Transfer Learning, Model Optimization (Optuna) |
-| 👁️ **Computer Vision** | YOLO, Object Detection, Image Classification, Edge Inference |
-| 🔧 **ML Engineering** | FastAPI, Flask, Streamlit, ML Pipelines, Model Deployment |
-| 📊 **Data Science** | EDA, Statistical Modeling, Feature Engineering, Visualization |
-
+  <a href="https://www.linkedin.com/in/abesh-chakraborty/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="(mailto:abeshchakraborty10@gmail.com)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
-
-## 📜 Certifications
-
-🎓 **Machine Learning Specialization** - Andrew Ng (Coursera)  
-🎓 **Data Structures in Python** - LinkedIn Learning  
-🎓 **Advanced NLP with Python** - LinkedIn Learning
-
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekyabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=prs,issues,contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
+  <img src="https://streak-stats.demolab.com?user=GeekyAbs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GeekyAbs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 💡 Philosophy
-
-> *"Be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it."* - Marcus Aurelius
-
-> *"Artificial Intelligence is the new electricity."* - Andrew Ng
-
----
-
-<div align="center">
-
-### 🌟 Let's Build Intelligent Systems Together! 🌟
-
-**⭐ Star my repositories if you find them interesting!**
-
-
-**📧 Reach out:** abeshchakraborty10@gmail.com
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
----
-
-<div align="center">
-
-```python
-if you.found_this_interesting():
-    print("Let's collaborate! 🤝")
-    return "⭐ Star this profile!"
-else:
-    print("Thanks for visiting! 👋")
-```
-
-</div>
+###
