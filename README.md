@@ -156,7 +156,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeekyAbs&theme=darkhub&style=flat&no-bg=true&margin-w=15&column=7" alt="Abesh's GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeekyAbs&theme=dracula&hide_border=true&area=true" alt="Abesh's Activity Graph" width="85%" style="border-radius: 10px;" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeekyAbs&theme=darkhub&style=flat&no-bg=true&margin-w=50&column=9" alt="Abesh's GitHub Trophies" />
 </div>
 
 ---
