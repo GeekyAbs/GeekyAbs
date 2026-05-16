@@ -143,13 +143,23 @@
 # 📊 Stats & Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GeekyAbs&theme=dracula&hide_border=true" height="160"/>
-
-<img src="https://leetcard.jacoblin.cool/abeshchakraborty10?theme=dark&font=baloo" height="160"/>
-
+  <img src="https://streak-stats.demolab.com?user=GeekyAbs&theme=dracula&hide_border=true" height="160" />
+  <img src="https://leetcard.jacoblin.cool/abeshchakraborty10?theme=dark&font=baloo" height="160" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GeekyAbs&layout=compact&theme=dracula&hide_border=true" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeekyAbs&theme=darkhub&style=flat&no-bg=true&margin-w=15&column=7" alt="Abesh's GitHub Trophies" />
+</div>
+
+---
 ---
 
 <div align="center">
