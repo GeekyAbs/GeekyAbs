@@ -30,6 +30,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
 
       # Coding habits: when and how you commit
+      # Coding habits: when and how you commit
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -40,6 +41,7 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_habits: yes
           plugin_habits_from: 200
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic
